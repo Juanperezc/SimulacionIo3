@@ -22,7 +22,7 @@ create_df = function(num, t1,res) {
 resultado = character(0)
 uniform_a = 1.1
 uniform_b = 2
-valores_R = c(0.0589,0.6733,0.4799,0.9486,0.6139)
+valores_R = c(0.0589,0.6733,0.4799,0.9486,0.6139,0.5933,0.9341,0.1782,0.3473,0.5644)
 for (x in 1:length(valores_R)){
    # vaR = c(valor_aleatorio_R)
     #funcion
